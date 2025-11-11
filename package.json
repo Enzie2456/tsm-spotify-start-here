@@ -16,6 +16,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.9.0",
+    "spotify-web-api-js": "^1.5.2",
     "spotify-web-api-node": "^5.0.2"
   },
   "devDependencies": {
